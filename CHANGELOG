@@ -1,1 +1,4 @@
-Verion 0.0.1, created game window.
+Version 0.0.1, created game window.
+
+Version 1.0.0, added paddles and ball, added paddle movement with w.s, up,
+down, added ball physics, added scoring. 
